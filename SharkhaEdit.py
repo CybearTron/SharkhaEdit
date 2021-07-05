@@ -12,7 +12,7 @@ root=Tk()
 root.geometry("800x600")
 root.config(bg="#3B4252")
 
-root.iconbitmap('D:\practice snek\SharkhaEdit\icon.ico')
+root.iconbitmap('icon.ico')
 
 #Sizing
 root.minsize(height=560)
